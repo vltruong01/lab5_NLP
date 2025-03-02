@@ -1,0 +1,62 @@
+<<<<<<< HEAD
+[
+    {
+        "learning_rate": 3e-05,
+        "batch_size": 8,
+        "num_epochs": 1,
+        "eval_loss": 0.6868961453437805,
+        "eval_accuracy": "N/A"
+    },
+    {
+        "learning_rate": 3e-05,
+        "batch_size": 16,
+        "num_epochs": 1,
+        "eval_loss": 0.6577121615409851,
+        "eval_accuracy": "N/A"
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 8,
+        "num_epochs": 1,
+        "eval_loss": 0.556283175945282,
+        "eval_accuracy": "N/A"
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 16,
+        "num_epochs": 1,
+        "eval_loss": 0.4603487253189087,
+        "eval_accuracy": "N/A"
+    }
+=======
+[
+    {
+        "learning_rate": 3e-05,
+        "batch_size": 8,
+        "num_epochs": 1,
+        "eval_loss": 0.6868961453437805,
+        "eval_accuracy": "N/A"
+    },
+    {
+        "learning_rate": 3e-05,
+        "batch_size": 16,
+        "num_epochs": 1,
+        "eval_loss": 0.6577121615409851,
+        "eval_accuracy": "N/A"
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 8,
+        "num_epochs": 1,
+        "eval_loss": 0.556283175945282,
+        "eval_accuracy": "N/A"
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 16,
+        "num_epochs": 1,
+        "eval_loss": 0.4603487253189087,
+        "eval_accuracy": "N/A"
+    }
+>>>>>>> da1f9189b264c6463650f273472773fbece0aff5
+]
