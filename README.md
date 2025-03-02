@@ -55,6 +55,7 @@ The trained model was saved at the end of the training process using the `traine
 The `huggingface_hub` library was used to upload the model. A repository was created for each model configuration, and the model files were pushed to the Hugging Face Hub using the repository's URL.
 
 Model Repository URL: [https://huggingface.co/vltruong01/dpo_model_lr5e-05_bs16_epoch1](https://huggingface.co/vltruong01/dpo_model_lr5e-05_bs16_epoch1)
+
 Commit URL: [Commit Details](https://huggingface.co/vltruong01/dpo_model_lr5e-05_bs16_epoch1/commit/41fa77d17bf8b4b71cee318efc86e41d3a4f2909)
 
 ## Task 4: Deploy
